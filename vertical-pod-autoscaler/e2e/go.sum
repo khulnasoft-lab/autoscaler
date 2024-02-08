@@ -35,6 +35,8 @@ cloud.google.com/go/bigquery v1.7.0/go.mod h1://okPTzCYNXSlb24MZs83e2Do+h+VXtc4g
 cloud.google.com/go/bigquery v1.8.0/go.mod h1:J5hqkt3O0uAFnINi6JXValWIb1v0goeZM77hZzJN/fQ=
 cloud.google.com/go/compute v1.19.0 h1:+9zda3WGgW1ZSTlVppLCYFIr48Pa35q1uG2N1itbCEQ=
 cloud.google.com/go/compute v1.19.0/go.mod h1:rikpw2y+UMidAe9tISo04EHNOIf42RLYF/q8Bs93scU=
+cloud.google.com/go/compute v1.19.1 h1:am86mquDUgjGNWxiGn+5PGLbmgiWXlE/yNWpIpNvuXY=
+cloud.google.com/go/compute v1.19.1/go.mod h1:6ylj3a05WF8leseCdIf77NK0g1ey+nj5IKd5/kvShxE=
 cloud.google.com/go/compute/metadata v0.2.3 h1:mg4jlk7mCAj6xXp9UJ4fjI9VUI5rubuGBW5aJ7UnBMY=
 cloud.google.com/go/compute/metadata v0.2.3/go.mod h1:VAV5nSsACxMJvgaAuX6Pk2AawlZn8kiOGuCv6gTkwuA=
 cloud.google.com/go/datastore v1.0.0/go.mod h1:LXYbyblFSglQ5pkeyhO+Qmw7ukd3C+pD7TKLgZqpHYE=
@@ -1058,6 +1060,8 @@ google.golang.org/grpc v1.46.0/go.mod h1:vN9eftEi1UMyUsIF80+uQXhHjbXYbm0uXoFCACu
 google.golang.org/grpc v1.51.0/go.mod h1:wgNDFcnuBGmxLKI/qn4T+m5BtEBYXJPvibbUPsAIPww=
 google.golang.org/grpc v1.54.0 h1:EhTqbhiYeixwWQtAEZAxmV9MGqcjEU2mFx52xCzNyag=
 google.golang.org/grpc v1.54.0/go.mod h1:PUSEXI6iWghWaB6lXM4knEgpJNu2qUcKfDtNci3EC2g=
+google.golang.org/grpc v1.56.3 h1:8I4C0Yq1EjstUzUJzpcRVbuYA2mODtEmpWiQoN/b2nc=
+google.golang.org/grpc v1.56.3/go.mod h1:I9bI3vqKfayGqPUAwGdOSu7kt6oIJLixfffKrpXqQ9s=
 google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0/go.mod h1:6Kw0yEErY5E/yWrBtf03jp27GLLJujG4z/JK95pnjjw=
 google.golang.org/protobuf v0.0.0-20200109180630-ec00e32a8dfd/go.mod h1:DFci5gLYBciE7Vtevhsrf46CRTquxDuWsQurQQe4oz8=
 google.golang.org/protobuf v0.0.0-20200221191635-4d8936d0db64/go.mod h1:kwYJMbMJ01Woi6D6+Kah6886xMZcty6N08ah7+eCXa0=
@@ -1155,6 +1159,8 @@ k8s.io/kubelet v0.28.3 h1:bp/uIf1R5F61BlFvFtzc4PDEiK7TtFcw3wFJlc0V0LM=
 k8s.io/kubelet v0.28.3/go.mod h1:E3NHYbp/v45Ao6AD0EOZnqO3L0R6Haks6Nm0+bnFwtU=
 k8s.io/kubernetes v1.28.3 h1:XTci6gzk+JR51UZuZQCFJ4CsyUkfivSjLI4O1P9z6LY=
 k8s.io/kubernetes v1.28.3/go.mod h1:NhAysZWvHtNcJFFHic87ofxQN7loylCQwg3ZvXVDbag=
+k8s.io/kubernetes v1.28.4 h1:aRNxs5jb8FVTtlnxeA4FSDBVKuFwA8Gw40/U2zReBYA=
+k8s.io/kubernetes v1.28.4/go.mod h1:BTzDCKYAlu6LL9ITbfjwgwIrJ30hlTgbv0eXDoA/WoA=
 k8s.io/legacy-cloud-providers v0.28.3 h1:owCO++dSM1A80BkEMD3dzEgc2KbDo4Zq6AHKYPWmAE8=
 k8s.io/legacy-cloud-providers v0.28.3/go.mod h1:c0OsngU+68yZHIu2UR7wdrPDhFLld6xG1yL+sDp2uHQ=
 k8s.io/mount-utils v0.28.3 h1:1p6Dk2QhoK0IYOee2MOec/90a7fC0yUqlWPfQy/4JFE=
