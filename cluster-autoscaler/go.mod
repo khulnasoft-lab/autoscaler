@@ -36,7 +36,7 @@ require (
 	golang.org/x/sys v0.17.0
 	google.golang.org/api v0.126.0
 	google.golang.org/grpc v1.58.3
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/gcfg.v1 v1.2.3
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.29.0-alpha.3
