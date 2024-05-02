@@ -52,7 +52,7 @@ require (
 	k8s.io/kubelet v0.29.0-alpha.3
 	k8s.io/kubernetes v1.29.0-alpha.3
 	k8s.io/legacy-cloud-providers v0.0.0
-	k8s.io/utils v0.0.0-20240102154912-e7106e64919e
+	k8s.io/utils v0.0.0-20240502163921-fe8a2dddb1d0
 	sigs.k8s.io/cloud-provider-azure v1.28.0
 	sigs.k8s.io/structured-merge-diff/v4 v4.4.1
 	sigs.k8s.io/yaml v1.3.0
