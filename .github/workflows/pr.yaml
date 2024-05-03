@@ -13,7 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - id: filter
-        uses: dorny/paths-filter@v2.2.0
+        uses: dorny/paths-filter@v2.12.0
         with:
           filters: |
             charts:
